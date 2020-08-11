@@ -47,7 +47,7 @@ public class App
 	
 	public long prodFunc() {
 		
-		return firstNum*secondNum;
+		return firstNum/secondNum;
 		
 	}
 
